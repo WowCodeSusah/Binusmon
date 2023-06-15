@@ -1,0 +1,11 @@
+.press-any {
+    -fx-text-fill : white;
+    -fx-font-size : 40px;
+}
+.press-any2 {
+    -fx-text-fill : blue;
+    -fx-font-size : 80px;
+}
+.binusmon-title {
+    -fx-text-fill : white;
+}

@@ -1,0 +1,35 @@
+Player
+Name: Commend:
+Name:Philip Commend:Calm
+Name:Alvin Commend:Steady
+Name:Arish Commend:Quick
+Opponent
+Name: Commend:
+Name:Jude Commend:Overclock
+Name:Bagus Commend:Control
+Students
+Name: Hp:000 Def:000 Atk:000 Spd:000 Total:000 Type:Aaa/Aaa Sprite:Aaaaa
+Name:Alya Hp:050 Def:050 Atk:100 Spd:070 Total:270 Type:Amb/Dil Sprite:Girl1
+Name:Brandon Hp:090 Def:090 Atk:080 Spd:020 Total:280 Type:Qui/Smt Sprite:Boys2
+Name:Raihan Hp:050 Def:070 Atk:070 Spd:100 Total:290 Type:Laz/Amb Sprite:Boys1
+Name:Owen Hp:070 Def:070 Atk:080 Spd:070 Total:290 Type:Dis/Non Sprite:Boys2
+Name:Vania Hp:070 Def:060 Atk:070 Spd:090 Total:290 Type:Laz/Non Sprite:Girl2
+Name:Tirza Hp:070 Def:100 Atk:050 Spd:080 Total:300 Type:Noy/Dis Sprite:Girl2
+Name:Jeffrey Hp:050 Def:100 Atk:100 Spd:050 Total:300 Type:Smt/Dil Sprite:Boys1
+Name:Jude Hp:100 Def:100 Atk:100 Spd:100 Total:400 Type:Tch/Non Sprite:Jude1
+Moves
+Name: Type:Aaa Power:000
+Name:Yell Type:Noy Power:030
+Name:Do_Asgn Type:Dil Power:040
+Name:Dont_Care Type:Dis Power:080
+Name:Study Type:Dil Power:000
+Name:Prstnte Type:Laz Power:000
+Name:Honest Type:Smt Power:040
+Name:Profanity Type:Laz Power:050
+Name:Criticize Type:Amb Power:040
+Name:Fortitude Type:Qui Power:000
+Name:Ignore Type:Qui Power:060
+Name:Raucous Type:Noi Power:000
+Name:Show_Off Type:Amb Power:000
+Name:Read Type:Smt Power:000
+Name:Expel Type:Tch Power:100
