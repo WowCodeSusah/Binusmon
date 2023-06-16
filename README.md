@@ -5,4 +5,4 @@ With all the pokemon being students and the trainers being teachers
 Demo for the project :<br />
 https://drive.google.com/drive/folders/1cpj8xAfj_AmfbBh4cV8qJzZ86r_ST9WQ?usp=drive_link
 ## Why are there two folders
-the binusmon folder is a text version that is unfinished while the binusmon_project folder is the finished version <br />
+The binusmon folder is a text version that is unfinished while the binusmon_project folder is the finished version <br />
